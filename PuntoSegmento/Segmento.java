@@ -1,0 +1,3 @@
+interface Segmento {
+    double length();
+}
