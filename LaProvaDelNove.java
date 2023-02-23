@@ -1,4 +1,4 @@
-package laprovadelnove;
+package LaProvaDelNove;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -6,7 +6,7 @@ import java.util.Scanner;
 //Scrivete un programma che, dato un numero naturale N nel flusso di ingresso, emetta tutte e sole le possibili terne
 //di interi positivi A, B e C ciascuno minore di N per cui A x B è diverso da C, ma la prova del nove funziona.
 
-public class Laprovadelnove {
+public class LaProvaDelNove {
   public static void main() {
     Scanner N = new Scanner(System.in);
     System.out.println("Inserisci il numero: ");
